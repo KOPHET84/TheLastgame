@@ -1,0 +1,19 @@
+{
+  "name": "thelastgame",
+  "version": "1.0.0",
+  "description": "game test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOPHET84/TheLastGame.git"
+  },
+  "author": "KOPHET84",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOPHET84/TheLastGame/issues"
+  },
+  "homepage": "https://github.com/KOPHET84/TheLastGame#readme"
+}
